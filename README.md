@@ -17,7 +17,7 @@ The dataset comprises a high-quality collection of over **5,000 annotated food i
   - Beverages
   - Bubble Tea
 
-![image-20241121170638636](C:\Users\98690\AppData\Roaming\Typora\typora-user-images\image-20241121170638636.png)
+![image-20241121170638636](.\image-20241121170638636.png)
 
 ### Features
 
